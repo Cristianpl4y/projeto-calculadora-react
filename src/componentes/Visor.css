@@ -1,0 +1,11 @@
+.visor {
+    grid-column: span 4;
+    background-color: rgba(0, 0, 0, 0.432);
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    font-size: 2.1rem;
+    overflow: hidden;
+}
