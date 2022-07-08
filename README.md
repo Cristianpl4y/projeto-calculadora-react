@@ -21,8 +21,8 @@ O projeto foi criado para eu aprender sobre os arquivos JSX, e criar os meus pri
 
 ### Rodar o Projeto
 
-1- Primeiro passo, clone o projeto em sua maquina
-2- Abra a pasta do projeto no terminal
+1- Primeiro passo, clone o projeto em sua maquina<br>
+2- Abra a pasta do projeto no terminal<br>
 3- Instale as dependências com o comando 
 ```
 npm i
